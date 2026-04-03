@@ -20,6 +20,7 @@ Effortlessly transcode videos into multiple formats, including HSL, and store th
 - **AWS S3** for seamless cloud storage and delivery of media files.
 - Process and store large media files efficiently and scale as needed.
 
+
 ---
 
 ## Tech Stack 💻
